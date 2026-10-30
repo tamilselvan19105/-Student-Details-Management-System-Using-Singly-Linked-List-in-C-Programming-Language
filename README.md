@@ -1,0 +1,2 @@
+# -Student-Details-Management-System-Using-Singly-Linked-List-in-C-Programming-Language
+This project is developed using C++ programming language with the concept of Data Structures. It is used to store and manage student details such as Roll Number, Name and Mark.The program uses a Singly Linked List to store student records dynamically. Each node contains student information and a pointer to the next node.
